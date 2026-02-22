@@ -51,7 +51,7 @@
 | Project | Description |
 |---------|-------------|
 | **[NextStep AI](https://github.com/sameerreddy789/NextStep-AI)** | AI-powered interview prep & learning roadmap platform with curated video resources |
-| **[SwapCircle](https://github.com/sameerreddy789/SwapCircle)** | A platform for swapping and exchanging items within a community circle |
+| **[SwapCircle](https://github.com/sameerreddy789/Swap_Circle001)** | A platform for swapping and exchanging items within a community circle |
 
 </div>
 
