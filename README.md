@@ -1,6 +1,6 @@
 <!--[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/sameerreddy789)-->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3200&&pause=200&background=F0FFFF&color=2E9EFF&center=true&multiline=true&random=false&width=800&height=110&lines=Hey+there,;I'm+Sameer+Reddy!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3200&&pause=200&background=F0FFFF&color=A855F7&center=true&multiline=true&random=false&width=800&height=110&lines=Hey+there,;I'm+Sameer+Reddy!)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="180" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
@@ -12,7 +12,9 @@
 
 ### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi">&nbsp; Hi There!
 
-- 🔭 I'm currently working on **[NextStep AI](https://github.com/sameerreddy789/NextStep-AI)**
+- �‍💻 CS student from Tirupati, Andhra Pradesh
+
+- �🔭 I'm currently working on **[NextStep AI](https://github.com/sameerreddy789/NextStep-AI)**
 
 - 🌱 I'm currently learning **React.js & Advanced AI Integration**
 
@@ -57,8 +59,14 @@
 
 
 <br>
+<h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Contribution Snake:</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sameerreddy789/sameerreddy789/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sameerreddy789&label=Profile%20views&color=0e75b6&style=flat" alt="sameerreddy789" /> </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=18&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+inspired+by+%40technicalmonish" />
+  <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=18&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+inspired+by+%40technicalmonish" />
 </div>
