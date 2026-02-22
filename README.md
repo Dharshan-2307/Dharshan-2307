@@ -36,6 +36,12 @@
 </p>
 
 
+<h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> GitHub Trophies:</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sameerreddy789&theme=discord&no-frame=true&no-bg=true&column=7" />
+</div>
+
+
 <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">    Github Stats:</h2>
 <div align="center">
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameerreddy789&theme=tokyonight" />
@@ -70,3 +76,5 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Satisfy&size=18&duration=3000&pause=500&color=A855F7&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+inspired+by+%40technicalmonish" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=120&section=footer" width="100%"/>
