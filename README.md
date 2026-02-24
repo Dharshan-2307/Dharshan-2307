@@ -12,7 +12,7 @@
 
 - 👨‍💻 CS student from Tirupati, Andhra Pradesh
 
-- 🔭 I'm currently working on **[CinemaScope](https://github.com/Dharshan-2307/CinemaScope)**
+- 🔭 I'm currently working on **[NextStep AI](https://github.com/sameerreddy789/NextStep_AI)**
 
 - 🌱 I'm currently learning **JavaScript & Web Development**
 
@@ -32,12 +32,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
 </p>
-
-
-<h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> GitHub Trophies:</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharshan-2307&theme=discord&no-frame=true&no-bg=true&column=7" />
-</div>
 
 
 <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">    Github Stats:</h2>
@@ -62,11 +56,6 @@
 </div>
 
 
-<br>
-<h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Contribution Snake:</h2>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dharshan-2307/Dharshan-2307/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Dharshan-2307&label=Profile%20views&color=0e75b6&style=flat" alt="Dharshan-2307" /> </p>
