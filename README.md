@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/@tr--dharshan-0e76a8)](https://www.linkedin.com/in/tr-dharshan-) &nbsp;&nbsp; [![GitHub Badge](https://img.shields.io/badge/-@Dharshan--2307-333?style=social&logo=github&logoColor=black)](https://github.com/Dharshan-2307) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-devtrdharshan78@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:devtrdharshan78@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/@dharshan--kumar--tr-0e76a8)](https://www.linkedin.com/in/dharshan-kumar-tr-797332326/) &nbsp;&nbsp; [![GitHub Badge](https://img.shields.io/badge/-@Dharshan--2307-333?style=social&logo=github&logoColor=black)](https://github.com/Dharshan-2307) &nbsp;&nbsp; [![Mail Badge](https://img.shields.io/badge/-devtrdharshan78@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:devtrdharshan78@gmail.com)
 
 </div>
 
