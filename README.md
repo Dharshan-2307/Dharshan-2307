@@ -24,7 +24,11 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="22px" align="top"/> &nbsp; **Tech Stack**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,mysql&theme=dark" />
+  <br/>
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif?cid=ecf05e47nfhfh6dzq7v2j8p8s0h31w7r4i6p7o7z8ixj0g7c&rid=giphy.gif" width="22px" align="top"/> &nbsp; **Tools**
