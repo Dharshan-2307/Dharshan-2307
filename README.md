@@ -14,7 +14,7 @@
 
 - 🔭 I'm currently working on **[NextStep AI](https://github.com/sameerreddy789/NextStep_AI)**
 
-- 🌱 I'm currently learning **JavaScript & Web Development**
+- 🌱 I'm currently learning **React & Web Development**
 
 - 🎯 Goal: **Full Stack Developer**
 
