@@ -12,7 +12,7 @@
 
 - 👨‍💻 CS student from Tirupati, Andhra Pradesh
 
-- 🔭 I'm currently working on **[NextStep AI](https://github.com/sameerreddy789/NextStep_AI)**
+- 🔭 I'm currently Learning Data Structures and Algorithms
 
 - 🌱 I'm currently learning **React & Web Development**
 
