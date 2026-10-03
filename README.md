@@ -16,7 +16,7 @@
 
 - 🌱 I'm currently learning **React & Exploring AI Technologies**
 
-- 🎯 Goal: **Full Stack Developer**
+- 🎯 Goal: **Software Developer**
 
 - 🤖 Passionate about **Web Development & UI Design**
 
